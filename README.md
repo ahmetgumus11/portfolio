@@ -21,7 +21,6 @@ Visit the live website: [Ahmet Gumus Portfolio](https://ahmetgumus11.github.io/p
 - HTML5
 - CSS3 (with CSS Variables)
 - Font Awesome Icons
-- GitHub Pages (for deployment)
 
 ## Color Scheme
 
