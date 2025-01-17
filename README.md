@@ -45,7 +45,7 @@ This website is deployed using GitHub Pages. To deploy your own version:
 1. Fork this repository
 2. Go to repository Settings > Pages
 3. Select your main branch as source
-4. Your site will be published at `https://[your-username].github.io/portfolio`
+4. Your site will be published at `https://ahmetgumus11.github.io/portfolio`
 
 
 ## Contact
